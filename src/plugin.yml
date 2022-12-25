@@ -1,0 +1,8 @@
+name: SkyPvP
+main: de.ng.skypvp.SkyPvP
+version: 1.0
+author: Imprex
+
+commands:
+  spawn:
+    description: Teleportiert dich zum Welt spawn
